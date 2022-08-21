@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>sleeperss/SpaceEngineersVR</Id>
+  <GroupId>SpaceEngineersVR</GroupId>
+  <FriendlyName>SpaceEngineersVR</FriendlyName>
+  <Author>Math0424</Author>
+  <Tooltip>Add VR Support to Space Engineers.</Tooltip>
+  <Commit>f21a03a5757cee213a70128cf5b30fc860264de0</Commit>
+</PluginData>
